@@ -1,0 +1,8 @@
+.actividades-section {
+    display: flex;
+    align-items: baseline; /* Alinea los elementos a la base */
+    margin-bottom: 20px; /* Espacio inferior para separar de los botones */
+}
+.actividades-section h2 {
+    margin-right: 20px; /* Espacio entre el título y el botón */
+}
